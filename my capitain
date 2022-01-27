@@ -136,13 +136,11 @@ if choice == '1': print (numi, "+", num2, " ", add (num1, num2))
 
 elif choice == 2: print (numl, "-", num2, "", substract (numl, num2))
 
-elif choice $3¹:
+elif choice == 3:
 
 print (numl, "x", num2,"=" , multiply (numl, num2))
 
 elif :e==^ prime 4^ prime : print (numl, prime/^ prime prime , num2,"=" , divide (numl, num2))
-
-elif choice 151: print (numl, "", num2, powernuml,num2)')
 
 else: print ("Invalid input")
 
